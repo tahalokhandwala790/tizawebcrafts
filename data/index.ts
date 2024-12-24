@@ -88,11 +88,11 @@ export const projects = [
   },
   {
     id: 3,
-    title: "AI Shirt customizer",
-    des: "Create your unique and exclusive shirt with our brand-new 3D customization tool. Unleash your imagination and define your own style.",
+    title: "Fizzi",
+    des: "Our soda is made with real fruit juice and a touch of cane sugar. We never use artificial sweeteners or high fructose corn syrup. Try all five flavors and find your favorite!",
     img: "/p3.svg",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg"],
-    link: "https://shirtcustomizer-tz.netlify.app/",
+    link: "https://fizzi-tz.netlify.app/",
   },
   {
     id: 4,
@@ -101,6 +101,30 @@ export const projects = [
     img: "/p4.svg",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
     link: "https://i-phone-clone-tz.netlify.app",
+  },
+  {
+    id: 5,
+    title: "Camptraveler",
+    des: "We want to be on each of your journeys seeking the satisfaction of seeing the incorruptible beauty of nature. We can help you on an adventure around the world in just one app",
+    img: "/p5.svg",
+    iconLists: ["/next.svg", "/tail.svg", "/ts.svg"],
+    link: "https://camptraveler-tz.netlify.app/",
+  },
+  {
+    id: 6,
+    title: "Tiza Webcrafts 3d",
+    des: "This cutting-edge portfolio features dynamic 3D models and animations, showcasing my web development skills. Built using Three.js, React, and Tailwind CSS, it provides an immersive and responsive experience across devices.",
+    img: "/p6.svg",
+    iconLists: ["/re.svg", "/tail.svg", "/three.svg", "/gsap.svg"],
+    link: "https://tizawebcrafts3d.netlify.app/",
+  },
+  {
+    id: 7,
+    title: "Tiza Webcrafts 2.0",
+    des: " this portfolio features sleek design, interactive elements, and seamless navigation. Built with React, Next.js, and Tailwind CSS, it ensures a responsive, user-friendly experience across all devices.",
+    img: "/p8.svg",
+    iconLists: ["/re.svg", "/tail.svg", "/three.svg", "/gsap.svg"],
+    link: "https://tizawebcrafts2.netlify.app",
   },
 ];
 
