@@ -30,6 +30,10 @@ export default function RootLayout({
         >
           {children}
         </ThemeProvider>
+        <script
+          src="//code.tidio.co/tnhgyxjh9scckhtc3409bqpfh3w1e7am.js"
+          async
+        ></script>
       </body>
     </html>
   );
