@@ -15,9 +15,8 @@ const Approach = () => {
         <Card
           title="Planning & Strategy"
           icon={<AceternityIcon order="Phase 1" />}
-          des="We'll collaborate to map out your website's goals, target audience, 
-          and key functionalities. We'll discuss things like site structure, 
-          navigation, and content requirements."
+          des="Collaborate with me to define your design objectives, target audience, and essential features. We'll outline design requirements for a solid foundation.
+"
         >
           <CanvasRevealEffect
             animationSpeed={5.1}
@@ -26,11 +25,10 @@ const Approach = () => {
           />
         </Card>
         <Card
-          title="Development & Progress Update"
+          title="Design and Concept Development"
           icon={<AceternityIcon order="Phase 2" />}
-          des="Once we agree on the plan, I cue my lofi playlist and dive into
-          coding. From initial sketches to polished code, I keep you updated
-          every step of the way."
+          des="I'll create captivating visual designs, incorporating your feedback and preferences. You'll receive regular updates from initial sketches to final design concepts.
+"
         >
           <CanvasRevealEffect
             animationSpeed={3}
@@ -48,11 +46,10 @@ const Approach = () => {
           {/* <div className="absolute inset-0 [mask-image:radial-gradient(400px_at_center,white,transparent)] bg-black/50 dark:bg-black/90" /> */}
         </Card>
         <Card
-          title="Development & Launch"
+          title="Design Refinement and Finalization"
           icon={<AceternityIcon order="Phase 3" />}
-          des="This is where the magic happens! Based on the approved design, 
-          I'll translate everything into functional code, building your website
-          from the ground up."
+          des="Once the design concept is approved, I'll refine the design and deliver the final design files, ensuring a visually stunning and user-friendly design.
+"
         >
           <CanvasRevealEffect
             animationSpeed={3}
