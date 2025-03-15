@@ -46,7 +46,7 @@ const Hero = () => {
             Desgin Magic by Taha
           </p>
 
-          {/**
+          {/*
            *  Link: https://ui.aceternity.com/components/text-generate-effect
            *
            *  change md:text-6xl, add more responsive code
